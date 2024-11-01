@@ -4,6 +4,9 @@ http://livetv.ktv.zone/104/play.m3u8
 #EXTINF:-1 tvg-id="france3" group-title="France TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/702px-France_3_2018.svg.png?20211224193941", France 3
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 http://livetv.ktv.zone/105/play.m3u8
+#EXTINF:-1 tvg-id="f3alpes" group-title="France TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/France_3_Alpes_-_Logo_2018.svg/512px-France_3_Alpes_-_Logo_2018.svg.png?20180201011627", France 3 Alpes
+#EXTVLCOPT:http-user-agent=cvmedia/1.0.0
+http://livetv.ktv.zone/210/play.m3u8
 #EXTINF:-1 tvg-id="france4" group-title="France TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png?20180205202350", France 4
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 http://livetv.ktv.zone/116/play.m3u8
